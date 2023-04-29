@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i resources/main.css -o public/ui.css --watch",
+    "prod": "export NODE_ENV=production && npx tailwindcss --minify -i resources/main.css -o public/ui.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
