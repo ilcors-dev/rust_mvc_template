@@ -12,7 +12,6 @@ migration = { path = "migration" } # depends on your needs
 
 anyhow = "1.0.70"
 axum = "0.6.17"
-cargo-watch = "8.4.0"
 include_dir = "0.7.3"
 lazy_static = "1.4.0"
 mime_guess = "2.0.4"
