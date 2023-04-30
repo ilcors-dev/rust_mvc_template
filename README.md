@@ -55,7 +55,7 @@ Install it and run `cargo watch -x run`
 MIT
 # 🔭 Contributing <a name = "contributing"></a>
 
-🎉 Thank you for being interested in contributing to laravel/laravel project! 🎉 
+🎉 Thank you for being interested in contributing to Rust MVC Template project! 🎉 
 
 Feel welcome and read the following sections in order to know how to ask questions and how to work on something.
 
